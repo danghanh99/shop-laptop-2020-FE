@@ -1,0 +1,1 @@
+export const API_URL = 'https://shop-laptop-2020.herokuapp.com/v1';
